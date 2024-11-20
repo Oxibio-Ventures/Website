@@ -2199,7 +2199,7 @@ input, select, textarea {
 		}
 
 	footer.major {
-		margin: 4em 0 0 0;
+		margin: 2em 0 0 0;
 	}
 
 /* Form */
@@ -4045,7 +4045,7 @@ input, select, textarea {
 		/* Footer */
 
 			#footer {
-				padding: 3.25em 1.5em;
+				padding: 2.5em 1.5em;
 			}
 
 	}
@@ -4098,7 +4098,7 @@ input, select, textarea {
 		/* Footer */
 
 			#footer {
-				padding: 3em 1.25em;
+				padding: 2.5em 1.25em;
 			}
 
 				#footer .copyright {
